@@ -25,7 +25,7 @@ int main(void)
 
 void printTitle(void)
 {
-  system("clear");
+  system("clear||cls");
   printf("\t***************\n");
   printf("\t H A N G M A N\n");
   printf("\t***************\n");
